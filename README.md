@@ -68,9 +68,9 @@ $ bash start.sh
 
 #### MY SOCIAL MEDIA
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/SidraTools) <br>
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/SidraELEzz) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/118462356860246) <br>
-[![](https://img.shields.io/badge/Telegram-black?logo=Instagram&logoColor=red&labelColor=black)](https://t.me/SidraToools) <br>
+[![](https://img.shields.io/badge/Telegram-black?logo=Instagram&logoColor=red&labelColor=black)](https://t.me/SidraTools) <br>
 
 
 <h2> IT IS NOT GOOD FOR YOUR PERSONALITY THAT EVERYTHING IN YOU IS GREAT EXCEPT FOR YOUR MIND <h2\>
