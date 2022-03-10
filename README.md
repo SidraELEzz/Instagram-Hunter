@@ -38,7 +38,7 @@ CONTACT WITH <a href="https://github.com/SidraELEzz"><b>Sidra ELEzz </a> </br><b
 
 </br>
 <p align="center">
-      SCRIPT SPEED FIRA 
+      SCRIPT HACK INSTAGRAM ACCOUNTS
 </p>
   
 ![IMG_20220310_170258_329](https://raw.githubusercontent.com/SidraELEzz/Instagram-Hunter/main/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%84%D8%A8/IMG_20220310_170258_329.jpg)
